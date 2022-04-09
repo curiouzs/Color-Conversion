@@ -5,21 +5,25 @@ To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 ## Software Required:
 Anaconda - Python 3.7
 ## Algorithm:
-### Step1:
 
+### Step1:
 
 <br>
 
 ### Step2:
+
 <br>
 
 ### Step3:
+
 <br>
 
 ### Step4:
+
 <br>
 
 ### Step5:
+
 <br>
 
 ## Program:
@@ -213,36 +217,40 @@ cv2.destroyAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
-![Screenshot (26)](https://user-images.githubusercontent.com/75234646/162552598-ba988797-5b6d-4c12-a77b-5ac3ed4d2b8c.png)
+![Screenshot (26)](https://user-images.githubusercontent.com/75234646/162552626-ba7b1d5c-6b53-4429-8e26-a78f9d1f96e3.png)
+
 
 
 <br>
 
 ### ii) HSV to RGB and BGR
 <br>
-![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552591-124a323b-ab7c-4a9a-af43-4f5bde5860fc.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552618-dce4d93d-a94b-45c5-bec0-3c32b0d99ada.png)
+
 
 
 <br>
 
 ### iii) RGB and BGR to YCrCb
 <br>
-![Screenshot (31)](https://user-images.githubusercontent.com/75234646/162552553-143fbc4e-d882-4452-99f9-d1c827f60787.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/75234646/162552639-dffc8cde-a2f3-4d4c-b2d2-4f6790e70240.png)
 
 
 <br>
 
 ### iv) Split and merge RGB Image
 <br>
-![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552579-1ecfa75f-7b1b-4951-8fce-fad26682e0a2.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552661-a5c53413-535a-491c-8e1e-2be50487557d.png)
+
 
 
 <br>
 
 ### v) Split and merge HSV Image
 <br>
+![Screenshot (30)](https://user-images.githubusercontent.com/75234646/162552648-41268065-be8d-4b5c-991e-0a1e3883cf06.png)
 
-![Screenshot (30)](https://user-images.githubusercontent.com/75234646/162552566-e5b85ad7-3ba3-4790-9b26-245d1e429f4d.png)
 
 <br>
 
