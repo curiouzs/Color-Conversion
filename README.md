@@ -32,8 +32,9 @@ Output the image using cv2.imshow("OUTPUT", image)
 
 
 ```python
-# Developed By: LOKESH KRISHNAA
+# Developed By: LOKESH KRISHNAA M
 # Register Number: 212220230030
+
 # i) Convert BGR and RGB to HSV and GRAY
 ```python
 
@@ -228,7 +229,8 @@ cv2.destroyAllWindows()
 ### ii) HSV to RGB and BGR
 <br>
 
-![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552835-f6d03229-61a4-425f-a871-98202bf467bf.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/75234646/162553053-8a7f605e-e3f1-4331-a444-b3735a261c6d.png)
+
 
 <br>
 
