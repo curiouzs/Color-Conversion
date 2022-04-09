@@ -30,12 +30,11 @@ Output the image using cv2.imshow("OUTPUT", image)
 
 ## Program:
 
-
-```python
 # Developed By: LOKESH KRISHNAA M
 # Register Number: 212220230030
 
 # i) Convert BGR and RGB to HSV and GRAY
+
 ```python
 
 # (i) bgr and rgb to hsv and gray
