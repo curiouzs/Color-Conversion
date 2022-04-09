@@ -6,6 +6,8 @@ To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
+
+
 <br>
 
 ### Step2:
@@ -207,27 +209,43 @@ cv2.destroyAllWindows()
 ```
 
 
-```
+
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
+![Screenshot (26)](https://user-images.githubusercontent.com/75234646/162552598-ba988797-5b6d-4c12-a77b-5ac3ed4d2b8c.png)
+
+
 <br>
 
 ### ii) HSV to RGB and BGR
 <br>
+![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552591-124a323b-ab7c-4a9a-af43-4f5bde5860fc.png)
+
+
 <br>
 
 ### iii) RGB and BGR to YCrCb
 <br>
+![Screenshot (31)](https://user-images.githubusercontent.com/75234646/162552553-143fbc4e-d882-4452-99f9-d1c827f60787.png)
+
+
 <br>
 
 ### iv) Split and merge RGB Image
 <br>
+![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552579-1ecfa75f-7b1b-4951-8fce-fad26682e0a2.png)
+
+
 <br>
 
 ### v) Split and merge HSV Image
 <br>
+
+![Screenshot (30)](https://user-images.githubusercontent.com/75234646/162552566-e5b85ad7-3ba3-4790-9b26-245d1e429f4d.png)
+
 <br>
+
 
 
 ## Result:
