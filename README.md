@@ -7,22 +7,24 @@ Anaconda - Python 3.7
 ## Algorithm:
 
 ### Step1:
-
+Import cv2 library and upload the image or capture an image.
 <br>
 
 ### Step2:
-
+Read the saved image using cv2.imread("filename.jpg").
 <br>
 
 ### Step3:
-
+Convert the image into the given color transformation using cv2.cvtColor(image, cv2.BGR2YCrCb) 
+and similarly for other color formats. 
 <br>
 
 ### Step4:
-
+Split and merge the image using cv2.split(hsv) and cv2.merge([h,s,v]) 
 <br>
 
 ### Step5:
+Output the image using cv2.imshow("OUTPUT", image)
 
 <br>
 
@@ -217,17 +219,16 @@ cv2.destroyAllWindows()
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 <br>
-![Screenshot (26)](https://user-images.githubusercontent.com/75234646/162552626-ba7b1d5c-6b53-4429-8e26-a78f9d1f96e3.png)
 
+![Screenshot (26)](https://user-images.githubusercontent.com/75234646/162552839-4997f75e-ddd1-48ae-85b4-f8257c181623.png)
 
 
 <br>
 
 ### ii) HSV to RGB and BGR
 <br>
-![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552618-dce4d93d-a94b-45c5-bec0-3c32b0d99ada.png)
 
-
+![Screenshot (28)](https://user-images.githubusercontent.com/75234646/162552835-f6d03229-61a4-425f-a871-98202bf467bf.png)
 
 <br>
 
@@ -241,15 +242,16 @@ cv2.destroyAllWindows()
 
 ### iv) Split and merge RGB Image
 <br>
-![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552661-a5c53413-535a-491c-8e1e-2be50487557d.png)
 
+![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552816-980a9afa-1c61-4c4c-a957-5f5d3fe246ce.png)
 
 
 <br>
 
 ### v) Split and merge HSV Image
 <br>
-![Screenshot (30)](https://user-images.githubusercontent.com/75234646/162552648-41268065-be8d-4b5c-991e-0a1e3883cf06.png)
+
+![Screenshot (30)](https://user-images.githubusercontent.com/75234646/162552806-ce5f4bad-82ba-49d4-9205-144663d5b14b.png)
 
 
 <br>
