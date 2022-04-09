@@ -155,7 +155,7 @@ img1= cv2.resize(img, (270,190))
 
 cv2
 
-r,g,b = cv2.split(img1)
+b,g,r = cv2.split(img1)
 
 cv2.imshow("RED MODEL", r)
 cv2.imshow("GREEN MODEL", g)
@@ -164,7 +164,7 @@ cv2.imshow("BLUE MODEL ", b)
 
 
 #Merge:
-merger = cv2.merge([r,g,b])
+merger = cv2.merge([b,g,r])
 cv2.imshow("MERGED IMAGE", merger )
 
 
@@ -244,7 +244,8 @@ cv2.destroyAllWindows()
 ### iv) Split and merge RGB Image
 <br>
 
-![Screenshot (29)](https://user-images.githubusercontent.com/75234646/162552816-980a9afa-1c61-4c4c-a957-5f5d3fe246ce.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/75234646/162553205-4e0ab820-0171-49cb-985e-88fcdf2e95ae.png)
+
 
 
 <br>
